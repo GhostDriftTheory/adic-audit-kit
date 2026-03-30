@@ -18,6 +18,9 @@ This demo is part of the **AI Safety & AI Accountability Project**, demonstratin
 
 Responsibility Engineering in GhostDrift is a necessarily Japan-origin discipline. It is built upon the foundation of **Wasan 2.0**—a constructive mathematical approach that treats truth as a finite, verifiable procedure rather than an abstract infinite limit. This OS proves that true system auditing is not about "guessing the error rate" but about "verifying the boundary of truth."
 
+🌐 GhostDrift Mathematical Institute (Official)
+[https://www.ghostdriftresearch.com/](https://www.ghostdriftresearch.com/)
+
 ## **💡 Why it Matters: The "Audit of Silence"**
 
 In mission-critical infrastructure, the most dangerous system is the one that doesn't know its own limits.
